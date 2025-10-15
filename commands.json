@@ -1,0 +1,8 @@
+{
+  "shoot": {
+    "message": "{@me} commanded connor to shoot {@user}",
+    "gifs": [
+      "https://i.imgur.com/P5XQvji.gif"
+    ]
+  }
+}
